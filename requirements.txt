@@ -11,3 +11,4 @@ sentencepiece
 jinja2
 bitsandbytes
 accelerate
+streamlit
