@@ -12,3 +12,4 @@ jinja2
 bitsandbytes
 accelerate
 streamlit
+langchain-ollama
