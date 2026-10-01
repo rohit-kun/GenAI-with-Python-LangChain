@@ -13,3 +13,4 @@ bitsandbytes
 accelerate
 streamlit
 langchain-ollama
+langchain-community
