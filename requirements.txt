@@ -14,3 +14,6 @@ accelerate
 streamlit
 langchain-ollama
 langchain-community
+langgraph
+sqlalchemy
+psycopg2-binary
