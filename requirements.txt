@@ -17,3 +17,5 @@ langchain-community
 langgraph
 sqlalchemy
 psycopg2-binary
+psycopg[binary]
+pypdf
