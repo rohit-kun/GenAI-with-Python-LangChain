@@ -19,3 +19,6 @@ sqlalchemy
 psycopg2-binary
 psycopg[binary]
 pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
