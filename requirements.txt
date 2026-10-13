@@ -23,3 +23,4 @@ beautifulsoup4
 wikipedia
 langchain-text-splitters
 langchain-chroma
+pydantic
